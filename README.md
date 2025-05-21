@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedrashwan" alt="ahmedrashwan" /></a> </p>
 
-- 🔭 I’m currently working on [Wuilt](www.wuilt.com)
+- 🔭 I’m currently working on [Afaqy](www.afaqy.com)
 
 - 📫 How to reach me **Ahmed.Rashwan2014@yahoo.com**
 
